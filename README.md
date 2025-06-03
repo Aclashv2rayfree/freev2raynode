@@ -22,8 +22,8 @@
 免费节点
 
 ```
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.222:8880?allowInsecure=0&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560#15%7CGB_speednode_0025
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.170:8880?allowInsecure=1&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/#15%7CUS_speednode_0085
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4yANC1USCB8ICAyLjZNQi9zfDU1JXxOZXRmbGl4fE8uLi4iLCAiYWRkIjogIjM4LjQ3Ljk2LjMwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjE2NGE2YWQwLTQ3NmEtNGJhZS1iNzhmLWEzZDM3Y2YwZjQxNCIsICJob3N0IjogInRoLmx6ajUyMGh4dy5kcGRucy5vcmciLCAicGF0aCI6ICIvbHpqamoifQ==
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CNL_speednode_0046
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -31,4 +31,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.170:8880?allowInsecure=1
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 02:12:35 
+### 更新时间 2025-06-03 02:16:14 
