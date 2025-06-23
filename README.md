@@ -53,7 +53,6 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@52.90.225.40:443?allowInsecure=0&sn
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.239:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#%F0%9F%87%BA%F0%9F%87%B861%20%7C%20%201.0MB/s%7CDisney
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098#%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%201.5MB/s%7C44%25%7COpenai
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HqfCfh6o1IHwgIDEuNE1CL3N8MCV8WW91dHViZXxPcGVuLi4uIiwgImFkZCI6ICJkZS52bWVzcy5jb21ucG1qcy5jb20iLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiZ3JwYyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJjZWFhZjY1My05ODc0LTU4YzYtYjEwMC0wOTJjMDFhMWY3M2QiLCAic25pIjogImRlLnZtZXNzLmNvbW5wbWpzLmNvbSIsICJwYXRoIjogInZtZXNzLWdycGMifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AxIHwgIDEuOE1CL3N8MTUlfERpc25leXxZb3V0Li4uIiwgImFkZCI6ICJiYzg0MmI0OS1zd2V4czAtdDFydDVlLTFzMDl4LmhnYzEudGNwYmJyLm5ldCIsICJwb3J0IjogODA4MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNjJiNzgyNGUtNDdkYy0xMWVmLTlmMmQtZjIzYzkxNjRjYTVkIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIn0=
 vless://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.153.179:443?sni=5eR.WWW890604.dPDNS.OrG&alpn=http/1.1&type=ws&host=5er.www890604.dpdns.org&path=/C1SukvGdr58yeduy9AOGfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B873%20%7C%20%201.9MB/s%7C50%25%7COpenai%7CGem...
 vless://585acd30-52bf-4b70-a537-e13649fafefc@104.21.53.113:443?sni=bBA.890601.pP.UA&alpn=http/1.1&type=ws&host=bba.890601.pp.ua&path=/rU9rSjDSOd4yY2fOefp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B879%20%7C%20%201.7MB/s%7C30%25%7COpenai
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@162.159.248.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#%F0%9F%87%AE%F0%9F%87%B31%20%7C%20%201.7MB/s%7C61%25%7CDisney%7COpen...
@@ -64,8 +63,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=ree
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw==@43.203.242.204:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjE3MCIsICJwb3J0IjogNDYyMTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMWVjYTcwNi0xYWFlLTQyZDMtYmFiMC02OTk5NWQ3YjAyM2QifQ==
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?allowInsecure=0&sni=ZZzzzZZ.890601.XYZ&type=ws&host=ZZzzzZZ.890601.XYZ&path=/l96MZ8se5Kl2p8BiMhP42l#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.245.229.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0001
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@94.140.0.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0002
@@ -286,4 +286,4 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@102.177.189.251:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-22 21:42:35 
+### 更新时间 2025-06-22 21:44:34 
