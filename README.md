@@ -37,9 +37,9 @@ trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@eer.freevpnatm.dpdns.org:443?type=
 vless://e362a7d3-0018-4910-a885-ea27a79d00c3@188.34.185.192:18013?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
 vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.17.223.175:80?security=none&type=ws&host=q1.19KalA.co&encryption=none&type=ws&path=%2F&sni=q1.19KalA.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@43.206.216.158:9898#end-gfw.com@jp89
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@43.206.216.158:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
-vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiI0My4yMDYuMjE2LjE1OCIsInBvcnQiOjY4NjgsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@13.125.129.104:9898#end-gfw.com@kr64
+trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@13.125.129.104:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
+vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIxMy4xMjUuMTI5LjEwNCIsInBvcnQiOjY4NjgsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=fp=chrome&security=tls#%F0%9F%8C%801-MD%20%7C%20%201.8MB/s%7C44%25%7CYoutube%7CO...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
@@ -76,11 +76,9 @@ hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@18.181.201.66:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MjVlYzQ2N2M3OGNi@156.251.179.238:443#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjE3MCIsICJwb3J0IjogNDYyMTAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkMWVjYTcwNi0xYWFlLTQyZDMtYmFiMC02OTk5NWQ3YjAyM2QifQ==
 ss://YWVzLTI1Ni1nY206ZHd6MUd0Rjc=@120.232.206.57:30018#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OTdhMjIxYTMzMzNh@163.61.207.182:443#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HsPCfh7cg6Z+p5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjQ1LjE0MS4xMzYuMjM0IiwgInBvcnQiOiA0OTgxNSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjEwNWFmNDljLWU0ZWUtNDI5NC1iN2NjLWFiZmU2YTY1MWNmNSJ9
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@181.214.1.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0001
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#AE_speednode_0002
@@ -320,4 +318,4 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@102.177.189.254:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-24 08:12:35 
+### 更新时间 2025-06-24 08:14:38 
