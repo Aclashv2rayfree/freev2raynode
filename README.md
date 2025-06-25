@@ -24,25 +24,13 @@
 免费节点
 
 ```
-vless://a3414279-e59b-4f84-b0fe-aa6d5f4282b6@172.67.71.48:8080?security=none&type=ws&host=q5.19KAla.co&encryption=none&type=ws&path=%2F&sni=q5.19KAla.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMWhqaVVtU2d1Y2d6WVlKMFd0cXdX@77.246.102.112:60117#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
-vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=none&type=ws&host=q6.19kalA.co&encryption=none&type=ws&sni=q6.19kalA.co&headerType=none#%F0%9F%87%BF%F0%9F%87%A6_ZA_%E5%8D%97%E9%9D%9E-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://ced20efa-802d-4589-a91f-26947496c81f@172.67.21.2:80?security=none&type=ws&host=q3.19kala.co&encryption=none&type=ws&path=%2F&sni=q3.19kala.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
-ss://YWVzLTI1Ni1nY206WU9JTDA1RktaSVVCOFRVNA==@31.40.212.221:20006#%F0%9F%87%A7%F0%9F%87%AC_BG_%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A
-vless://ced20efa-802d-4589-a91f-26947496c81f@188.114.99.42:80?security=none&type=ws&host=q3.19kala.co&encryption=none&type=ws&path=%2F&sni=q3.19kala.co&headerType=none#%F0%9F%87%A7%F0%9F%87%B7_BR_%E5%B7%B4%E8%A5%BF-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vless://da08534a-bfca-4ac0-bd2a-2e3846bfcbc0@104.26.13.8:2052?security=none&type=ws&host=q7.19kalA.co&encryption=none&type=ws&path=%2F&sni=q7.19kalA.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_3
-vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.26.13.8:80?security=none&type=ws&host=q1.19KalA.co&encryption=none&type=ws&path=%2F&sni=q1.19KalA.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
-vless://d200a261-7a3a-4946-8c83-9e7b6a641cd6@165.22.25.111:16729?security=none&type=ws&host=subdomain.v1.people.com&encryption=none&type=ws&path=%2Fapi-company-external&sni=subdomain.v1.people.com&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@eer.freevpnatm.dpdns.org:443?type=ws&sni=eer.freevpnatm.dpdns.org&path=/XmTzATQPJv9RO3xr1D40NK#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_5
-vless://e362a7d3-0018-4910-a885-ea27a79d00c3@188.34.185.192:18013?security=none&type=tcp&encryption=none&headerType=none#%F0%9F%87%A9%F0%9F%87%AA_DE_%E5%BE%B7%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
-vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.17.223.175:80?security=none&type=ws&host=q1.19KalA.co&encryption=none&type=ws&path=%2F&sni=q1.19KalA.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+ss://YWVzLTI1Ni1nY206MU5ETjk1TDdRNlVOWUpSNA==@37.143.128.125:20012#%F0%9F%87%AE%F0%9F%87%B9_IT_%E6%84%8F%E5%A4%A7%E5%88%A9-%3E%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+vless://da08534a-bfca-4ac0-bd2a-2e3846bfcbc0@104.26.13.8:2052?security=none&type=ws&host=q7.19kalA.co&encryption=none&type=ws&path=%2F&sni=q7.19kalA.co&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#%F0%9F%87%B2%F0%9F%87%A9_MD_%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@52.195.195.247:9898#end-gfw.com@jp89
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@3.35.18.149:9898#end-gfw.com@kr64
 trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@52.195.195.247:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
-trojan://1a17b19d-4896-4531-af79-6e91d8ef8228@3.35.18.149:6668?allowInsecure=1&peer=baidu.com&sni=baidu.com#end-gfw.com
 vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiI1Mi4xOTUuMTk1LjI0NyIsInBvcnQiOjY4NjgsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
-vmess://eyJ2IjoiMiIsInBzIjoiZW5kLWdmdy5jb20iLCJhZGQiOiIzLjM1LjE4LjE0OSIsInBvcnQiOjY4NjgsImlkIjoiMWExN2IxOWQtNDg5Ni00NTMxLWFmNzktNmU5MWQ4ZWY4MjI4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZW5kLWdmdy5jb20iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6ImJhaWR1LmNvbSIsImFsbG93SW5zZWN1cmUiOjF9
 vless://9e85b4eb-f53d-457e-9385-454db3c1dcc1@104.17.148.22:80?type=ws&host=Www.speedtest.net.developsp.ir.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%201.5MB/s%7C0%25%7COpenai
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@5.104.75.130:8443?sni=CiR346yL3b.DeRaKhT.iNfO&type=ws&host=CiR346yL3b.DeRaKhT.iNfO&path=fp=chrome&security=tls#%F0%9F%8C%801-MD%20%7C%20%201.8MB/s%7C44%25%7CYoutube%7CO...
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?sni=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s16.yozpalangserver.ir&path=fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B73%20%7C%20%204.1MB/s%7C36%25%7COpenai
@@ -79,6 +67,7 @@ hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw==@13.250.125.114:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MjVlYzQ2N2M3OGNi@156.251.179.238:443#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OTdhMjIxYTMzMzNh@163.61.207.182:443#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
@@ -313,6 +302,7 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@59.153.217.57:34045?allowInsecure=0
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0266
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@102.177.176.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0267
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@102.177.189.254:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0268
+vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?allowInsecure=0&sni=q6.19kalA.co&type=ws&host=q6.19kalA.co&path=/#ZA_speednode_0269
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -320,4 +310,4 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@102.177.189.254:8880?allowInsecure=
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [fanqiang](https://github.com/asdsadsddas123/fanqiang)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-25 00:42:35 
+### 更新时间 2025-06-25 00:44:40 
